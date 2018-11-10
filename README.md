@@ -42,9 +42,9 @@ Create an empty directory to hold your working files:
     $ mkdir -p $XILINX_SOURCES
     $ cd $XILINX_SOURCES
 
-To use the release branch, type:
+To use the target branch, type:
 
-    $ repo init -u git://github.com/Xilinx/yocto-manifests.git -b rel-v2018.1
+    $ repo init -u git://github.com/Brainiarc7/yocto-manifests.git -b rel-v2018.2
 
 
 A successful initialization will end with a message stating that Repo is
